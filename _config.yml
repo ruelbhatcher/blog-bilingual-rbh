@@ -21,7 +21,7 @@
 title: blog bilingüe de rbh
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:" 
-  A bilingual blog in English and Spanish featuring both original written works and some translations. Un blog bilingüe en inglés y español que presenta ambas obras escritas originales y cieras obras traducidas.
+  A bilingual blog in English and Spanish featuring both original written works and some translations. Un blog bilingüe en inglés y español que presenta ambas obras escritas originales y ciertas obras traducidas.
 url: "https://ruelbhatcher.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  ruelbhatcher
