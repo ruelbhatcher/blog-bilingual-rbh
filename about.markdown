@@ -17,6 +17,6 @@ palabras clave: ambiente, contexto, gente, escuchar, hablar, leer, escribir, aso
 
 This site looks and functions as it does thanks to Jekyll and the Minima theme.  
 Este sitio luce y funciona de la manera que se ve gracias a Jekyll y el estilo Minima.  
-[jekyllrb.com](https://jekyllrb.com/)  
-[jekyll](https://github.com/jekyll/jekyll)  
-[minima](https://github.com/jekyll/minima)  
+[jekyllrb.com](https://jekyllrb.com/) software and docs | el programa y docus  
+[Jekyll](https://github.com/jekyll/jekyll) source code | código fuente  
+[Minima](https://github.com/jekyll/minima)  
