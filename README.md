@@ -1,5 +1,4 @@
-# readme for if-human-person
-basically a portfolio site  |  basicamente, un sitio de portafolio  
+# readme for blog-bilingual-rbh
 
 
 LICENSE  
