@@ -10,7 +10,7 @@ regarding, approximately | respecto a, aproximadamente
 years | años  : 50  
 dictionaries | diccionarios  : 6  
 keywords: environ, context, people, listen, speak, read, write, wonder, ask, investigate, decipher, learn, English, Spanish,  
-palabras clave: ambiente, contexto, gente, escuchar, hablar, leer, escribir, asombrarse, preguntar, investigar, descifrar, aprender, español, inglés  
+palabras claves: ambiente, contexto, gente, escuchar, hablar, leer, escribir, asombrarse, preguntar, investigar, descifrar, aprender, español, inglés  
 
 LICENSE
 
