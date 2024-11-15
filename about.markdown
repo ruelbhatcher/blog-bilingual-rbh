@@ -14,8 +14,7 @@ palabras claves: ambiente, contexto, gente, escuchar, hablar, leer, escribir, as
 
 LICENSE
 
-All work is licensed under:  |  Todas obras controladas por:  
-[Creative Commons Attribution Share Alike 4.0 license.](https://creativecommons.org/licenses/by-sa/4.0/)  
+All work is licensed under:  |  Todas obras licenciadas bajo: [Creative Commons Attribution Share Alike 4.0 license.](https://creativecommons.org/licenses/by-sa/4.0/). Reuse is permitted so long as you give attribution to the author and license the modified material under identical terms. Se permite la reutilización con tal de que se atribuya la obra fuente al autor y que se licencia el material modificado bajo condiciones iguales.  
 
 ###### Website  
 
